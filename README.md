@@ -24,7 +24,7 @@ In my free time, I enjoy building personal projects to explore new technologies 
 
 - 🔭 I’m currently re-architecting my **Android note-taking app** from the ground up to improve its architecture and performance.
 - 🎓 I'm deepening my knowledge in algorithms, data structures, and network security for my university courses.
-- 👯 I’m always open to collaborating on interesting open-source projects.
+- ⚡ I’m always open to collaborating on interesting open-source projects.
 
 <!--
 ### 📊 My GitHub Stats
